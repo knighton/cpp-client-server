@@ -11,7 +11,7 @@ standalone repo for my future reference and yours.  I hope you find it useful.
    --------------
 
 Commandline flags:
-* pip3 install argparse
+* argparse
 * Google Commandline Flags (GFlags): https://github.com/gflags/gflags
 
 JSON:
