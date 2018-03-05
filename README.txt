@@ -37,7 +37,7 @@ Instructions for Xubuntu 17.10:
 
     +
     |
-    |  # Gflags.
+    |  # GFlags.
     |  apt install libgflags-dev
     |
     |  # Crow.
