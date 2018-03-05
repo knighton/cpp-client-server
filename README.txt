@@ -27,7 +27,7 @@ HTTP server:
 * Crow C++ micro web framework: https://github.com/ipkn/crow
 
 Sending HTTP requests:
-* pip3 instal requests
+* pip3 install requests
 * Curl for People: https://github.com/whoshuu/cpr
 
 3. Installation
