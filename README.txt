@@ -1,14 +1,14 @@
-    1. Introduction
-       ------------
+1. Introduction
+   ------------
 
-A webserver and client that talk JSON.  Identical C++ and python APIs.
+A webserver and clients that talk JSON.  Identical C++ and python APIs.
 
 This is a really nice way to do this in C++ using libraries that are analogous
 to the elegance you're used to with python, so I'm putting this code in a
 standalone repo for my future reference and yours.  I hope you find it useful.
 
-    2. Libraries used
-       --------------
+2. Libraries used
+   --------------
 
 Commandline flags:
 * pip3 install argparse
@@ -30,8 +30,8 @@ Sending HTTP requests:
 * pip3 instal requests
 * Curl for People: https://github.com/whoshuu/cpr
 
-    3. Installation
-       ------------
+3. Installation
+   ------------
 
 Instructions for Xubuntu 17.10:
 
@@ -51,8 +51,8 @@ Instructions for Xubuntu 17.10:
     |
     +
 
-    4. Building
-       --------
+4. Building
+   --------
 
 Builds with make, with hilariously paranoid flags.  External libraries are each
 wrapped with a middle-man header file containing pragmas to disable some
