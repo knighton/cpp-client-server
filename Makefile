@@ -6,9 +6,9 @@ CXX = clang++-5.0
 
 GFLAGS_WARN_FLAGS = \
     -Wno-exit-time-destructors \
-	-Wno-global-constructors \
-	-Wno-missing-variable-declarations \
-	-Wno-undefined-func-template \
+    -Wno-global-constructors \
+    -Wno-missing-variable-declarations \
+    -Wno-undefined-func-template \
 
 WARN_FLAGS = \
     -Wall \
