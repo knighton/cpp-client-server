@@ -64,3 +64,24 @@ warnings.  Static analysis is good.
     |  make all
     |
     +
+
+5. Running
+   -------
+
+Servers respond to requests from clients.
+
+    +
+    |
+    |  ./bin/server
+    |
+    |  python3 -m py.server
+    |
+    +
+
+    +
+    |
+    |  ./bin/hello
+    |
+    |  python3 -m py.hello
+    |
+    +
